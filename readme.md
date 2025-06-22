@@ -1,5 +1,5 @@
 
-````markdown
+
 # 🔐 Encrypted TCP Chat Application
 
 A simple multi-client chat system built in Python using sockets and threading, with end-to-end encryption using the `cryptography` library. This project simulates a **TLS-like secure communication** channel over TCP/IP and allows multiple users to chat with real-time encrypted messaging.
